@@ -5,6 +5,8 @@
   <p>Este é um projeto que demonstra como usar HTML em um arquivo README do GitHub. O GitHub suporta muitos elementos HTML, o que permite criar READMEs mais personalizados e visualmente atraentes.</p>
 </div>
 
+![vinisebold's Stats](https://github-readme-stats.vercel.app/api?username=vinisebold&theme=default&show_icons=true&hide_border=false&count_private=true)
+
 <div align="center">
   <br>
   <p>
