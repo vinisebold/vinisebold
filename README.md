@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá, sou Vinicius Sebold!
 
 ## 👨‍💻 Desenvolvedor em Formação | Técnico em Desenvolvimento de Sistemas
-
+a
 Estudante desenvolvimento de sistemas, focado em soluções Java, atualmente cursando o 2º ano do Ensino Médio Técnico em Desenvolvimento de Sistemas no SENAI Blumenau, Santa Catarina.
 
 ### Sobre Mim
