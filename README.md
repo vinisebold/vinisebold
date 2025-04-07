@@ -6,20 +6,8 @@ Estudante desenvolvimento de sistemas, focado em soluções Java, atualmente cur
 
 ### Sobre Mim
 
--  Atualmente estudando no programa Entra21 Java e no curso Técnico em Desenvolvimento de Sistemas do SENAI
--  Aprimorando minhas habilidades em Java e explorando o ecosistema de desenvolvimento web
-
-### 💻 Habilidades Técnicas
-
-```java
-public class Skills {
-    String[] languages = {"Java", "HTML", "CSS", "JavaScript"};
-    String[] tools = {"Git", "GitHub", "VS Code", "Eclipse"};
-    String[] frameworks = {"Spring Boot", "JUnit"};
-    String[] databases = {"MySQL", "PostgreSQL"};
-    String[] currentlyLearning = {"React", "Node.js", "Docker"};
-}
-```
+-  Atualmente estudando no programa Entra21 Java e no curso Técnico em Desenvolvimento de Sistemas do SENAI.
+-  Me aprimorando no Java e explorando o ecosistema de desenvolvimento web.
 
 ### GitHub Stats
 
