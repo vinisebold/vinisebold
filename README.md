@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá, sou Vinicius Sebold!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Sou Vinicius Sebold
 
 Estudante desenvolvimento de sistemas, focado em soluções Java, atualmente cursando o 2º ano do Ensino Médio Técnico em Desenvolvimento de Sistemas no SENAI Blumenau, Santa Catarina.
 
