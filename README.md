@@ -4,9 +4,9 @@ Estudante desenvolvimento de sistemas, atualmente cursando o 2º ano do Ensino M
 
 ### Atualmente Estudando
 
-- Desenvolvimento em Java;
-- Desenvolvimento Front-end;
-- Desenvolvimento Back-end;
+- Desenvolvimento em Java
+- Desenvolvimento Front-end
+- Desenvolvimento Back-end
 
 <div align="left">
   <a href="https://www.linkedin.com/in/vinisebold"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
