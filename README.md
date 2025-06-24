@@ -9,10 +9,11 @@ Estudante desenvolvimento de sistemas, atualmente cursando o 2º ano do Ensino M
 - Desenvolvimento Back-end;
 
 <a href="https://github.com/vinisebold/Crafta-edu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinisebold&repo=Crafta-edu" />
-</a>&nbsp;&nbsp;
+  <img width="42%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinisebold&repo=Crafta-edu" />
+</a>
+&nbsp;&nbsp;
 <a href="https://github.com/vinisebold/senai-portfolio-web">
-  <img width="42%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinisebold&repo=senai-portfolio-web" />
+  <img width="44%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinisebold&repo=senai-portfolio-web" />
 </a>
 
 #
