@@ -8,9 +8,11 @@ Estudante desenvolvimento de sistemas, atualmente cursando o 2º ano do Ensino M
 - Desenvolvimento Front-end;
 - Desenvolvimento Back-end;
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/vinisebold"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white%22%20alt=%22LinkedIn" alt="LinkedIn"></a>
-  <a href="mailto:vinicius.sebold05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</div>
+<a href="https://github.com/vinisebold/Crafta-edu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinisebold&repo=Crafta-edu" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/vinisebold/senai-portfolio-web">
+  <img width="42%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinisebold&repo=senai-portfolio-web" />
+</a>
 
----
+#
