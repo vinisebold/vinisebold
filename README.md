@@ -18,7 +18,6 @@ Sou estudante de Desenvolvimento de Sistemas, atualmente no 2ยบ ano do Ensino Mร
 
 ### Frameworks
 [![Spring](https://skillicons.dev/icons?i=spring)](https://github.com/vinisebold)
-[![SpringBoot](springboot.svg)](https://github.com/vinisebold)
 [![Angular](https://skillicons.dev/icons?i=angular)](https://github.com/vinisebold)
 [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://github.com/vinisebold)
 
