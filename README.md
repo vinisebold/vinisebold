@@ -1,6 +1,6 @@
 # Hey, I'm Vinicius Sebold! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-Sou estudante de Desenvolvimento de Sistemas, atualmente no 2º ano do Ensino Médio Técnico no SENAI Blumenau/SC.
+Estudante de Desenvolvimento de Sistemas, atualmente no 2º ano do Ensino Médio Técnico no SENAI Blumenau/SC. Também participando do programa Entra21 Java.
 
 
 
