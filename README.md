@@ -2,8 +2,6 @@
 
 Estudante de Desenvolvimento de Sistemas, atualmente no 2º ano do Ensino Médio Técnico no SENAI Blumenau/SC. Também participando do programa Entra21 Java.
 
-
-
 ## 🚀 Atualmente Estudando
 
 - Desenvolvimento em **Java**
@@ -24,5 +22,3 @@ Estudante de Desenvolvimento de Sistemas, atualmente no 2º ano do Ensino Médio
 ### Tecnologias
 [![Git](https://skillicons.dev/icons?i=git)](https://github.com/vinisebold)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://github.com/vinisebold)
-
-
