@@ -7,7 +7,7 @@ Concluí o programa **Entra21 Java**, imersão presencial de 480h em desenvolvim
 ## Atualmente Estudando
 
 - Construção de APIs RESTful robustas utilizando **Java, Spring Boot e arquitetura MVC**.
-- Integração de serviços backend em **Angular e TypeScript**.
+- Integração de serviços backend<->frontend com **Angular e TypeScript**.
 - Containerização e deploy na nuvem utilizando **Docker e Railway**.
 
 ## Tecnologias & Ferramentas
